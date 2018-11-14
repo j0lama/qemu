@@ -2,7 +2,7 @@
 Some scripts have been added to facilitate the compilation process and the allow execute a remote kernel and debugging it.
 ### Instructions
 I use [Ubuntu 14.04.5 64bit Server](http://releases.ubuntu.com/14.04/ubuntu-14.04.5-server-amd64.iso) to compile and run QEMU. 
-'''
+```bash
 sudo apt-get install git
 git clone https://github.com/j0lama/qemu.git
 cd qemu/
@@ -10,7 +10,7 @@ chmod +x setup.sh
 ./setup.sh
 ./configure
 make
-'''
+```
 
 ## Official QEMU README
 
