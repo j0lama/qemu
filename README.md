@@ -12,9 +12,7 @@ chmod +x setup.sh
 make
 ```
 
-# Official QEMU README
-
-QEMU README
+OFFICIAL QEMU README
 ===========
 
 QEMU is a generic and open source machine & userspace emulator and
